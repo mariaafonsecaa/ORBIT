@@ -2,6 +2,8 @@
 
 **Space Observation & Mission Intelligence System**
 
+![ORBIT Dashboard](images/orbit-dashboard.png)
+
 ORBIT is a Python-based Near-Earth Object (NEO) monitoring and analytics application that retrieves asteroid data from NASA's API, processes and stores the information in a PostgreSQL database, and presents the results through an interactive Streamlit dashboard.
 
 The project was created to combine information systems, data analytics, database management, API integration, and visualization into a real-world application.
