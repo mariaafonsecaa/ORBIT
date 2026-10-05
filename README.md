@@ -77,6 +77,43 @@ ORBIT was developed as a personal Information Systems project to demonstrate pra
 
 The project also reflects an interest in applying information technology and data analytics to scientific and space-related datasets.
 
+## Running ORBIT Locally
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/mariaafonsecaa/ORBIT.git
+cd ORBIT
+```
+
+2. Create and activate a virtual environment:
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+```
+
+3. Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+4. Create a `.env` file in the project root using `.env.example` as a template:
+
+```text
+NASA_API_KEY=your_nasa_api_key_here
+DATABASE_URL=your_postgresql_connection_url_here
+```
+
+5. Ensure PostgreSQL is installed and configured for the application.
+
+6. Start the Streamlit dashboard:
+
+```bash
+streamlit run orbit/dashboard.py
+```
+
 ## Future Development
 
 Future improvements may include expanded historical analytics, additional visualizations, automated data collection, improved risk classification, cloud deployment, and additional NASA datasets.
