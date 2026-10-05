@@ -1,0 +1,78 @@
+
+========================================
+                 ORBIT
+          NEAR-EARTH MONITOR
+========================================
+
+Date: 2026-08-14
+
+Objects detected today: 6
+Potentially hazardous objects: 0
+Total approaches stored in database: 6
+
+----------------------------------------
+CLOSEST OBJECT
+----------------------------------------
+
+Asteroid: (2015 MO116)
+Miss distance: 39,236,668.47 km
+
+----------------------------------------
+FASTEST OBJECT
+----------------------------------------
+
+Asteroid: (2009 DB12)
+Velocity: 81,105.29 km/h
+
+----------------------------------------
+LARGEST OBJECT
+----------------------------------------
+
+Asteroid: (2009 SZ99)
+Estimated diameter: 588.22 m
+
+----------------------------------------
+TODAY'S OBJECTS
+----------------------------------------
+
+(2008 MQ1)
+Diameter: 62.16 m
+Velocity: 53,937.84 km/h
+Miss distance: 57,492,050.78 km
+Status: SAFE
+
+
+(2009 DB12)
+Diameter: 239.63 m
+Velocity: 81,105.29 km/h
+Miss distance: 57,311,161.92 km
+Status: SAFE
+
+
+(2009 RA4)
+Diameter: 205.85 m
+Velocity: 13,272.52 km/h
+Miss distance: 67,012,722.52 km
+Status: SAFE
+
+
+(2009 SZ99)
+Diameter: 588.22 m
+Velocity: 68,162.55 km/h
+Miss distance: 58,975,198.24 km
+Status: SAFE
+
+
+(2015 MO116)
+Diameter: 68.16 m
+Velocity: 37,388.04 km/h
+Miss distance: 39,236,668.47 km
+Status: SAFE
+
+
+(2019 UF5)
+Diameter: 32.62 m
+Velocity: 36,947.34 km/h
+Miss distance: 40,935,311.67 km
+Status: SAFE
+

@@ -1,0 +1,43 @@
+
+========================================
+                 ORBIT
+          NEAR-EARTH MONITOR
+========================================
+
+Date: 2026-08-16
+
+Objects detected today: 1
+Potentially hazardous objects: 0
+Total approaches stored in database: 11
+
+----------------------------------------
+CLOSEST OBJECT
+----------------------------------------
+
+Asteroid: 417874 (2007 NC5)
+Miss distance: 47,615,954.82 km
+
+----------------------------------------
+FASTEST OBJECT
+----------------------------------------
+
+Asteroid: 417874 (2007 NC5)
+Velocity: 144,032.12 km/h
+
+----------------------------------------
+LARGEST OBJECT
+----------------------------------------
+
+Asteroid: 417874 (2007 NC5)
+Estimated diameter: 1,022.22 m
+
+----------------------------------------
+TODAY'S OBJECTS
+----------------------------------------
+
+417874 (2007 NC5)
+Diameter: 1,022.22 m
+Velocity: 144,032.12 km/h
+Miss distance: 47,615,954.82 km
+Status: SAFE
+

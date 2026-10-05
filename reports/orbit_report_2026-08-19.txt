@@ -1,0 +1,64 @@
+
+========================================
+                 ORBIT
+          NEAR-EARTH MONITOR
+========================================
+
+Date: 2026-08-19
+
+Objects detected today: 4
+Potentially hazardous objects: 0
+Total approaches stored in database: 15
+
+----------------------------------------
+CLOSEST OBJECT
+----------------------------------------
+
+Asteroid: (2019 WC4)
+Miss distance: 36,198,395.40 km
+
+----------------------------------------
+FASTEST OBJECT
+----------------------------------------
+
+Asteroid: (2016 EF156)
+Velocity: 78,760.01 km/h
+
+----------------------------------------
+LARGEST OBJECT
+----------------------------------------
+
+Asteroid: (2019 WC4)
+Estimated diameter: 142.41 m
+
+----------------------------------------
+TODAY'S OBJECTS
+----------------------------------------
+
+(2016 EF156)
+Diameter: 49.38 m
+Velocity: 78,760.01 km/h
+Miss distance: 73,046,158.09 km
+Status: SAFE
+
+
+(2019 TZ6)
+Diameter: 12.40 m
+Velocity: 32,342.96 km/h
+Miss distance: 57,188,453.04 km
+Status: SAFE
+
+
+(2019 WC4)
+Diameter: 142.41 m
+Velocity: 35,827.68 km/h
+Miss distance: 36,198,395.40 km
+Status: SAFE
+
+
+(2020 BV5)
+Diameter: 22.16 m
+Velocity: 61,893.35 km/h
+Miss distance: 55,406,601.56 km
+Status: SAFE
+

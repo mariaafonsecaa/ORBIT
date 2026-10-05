@@ -1,0 +1,13 @@
+--- ORBIT DAILY REPORT ---
+
+Objects detected: 6
+Potentially hazardous objects: 0
+
+Closest asteroid: (2015 MO116)
+Miss distance: 39,236,668.47 km
+
+Fastest asteroid: (2009 DB12)
+Velocity: 81,105.29 km/h
+
+Largest asteroid: (2009 SZ99)
+Estimated diameter: 588.22 m

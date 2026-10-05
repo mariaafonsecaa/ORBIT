@@ -1,0 +1,57 @@
+
+========================================
+                 ORBIT
+          NEAR-EARTH MONITOR
+========================================
+
+Date: 2026-08-15
+
+Objects detected today: 3
+Potentially hazardous objects: 0
+Total approaches stored in database: 9
+
+----------------------------------------
+CLOSEST OBJECT
+----------------------------------------
+
+Asteroid: (2017 AV3)
+Miss distance: 42,346,249.57 km
+
+----------------------------------------
+FASTEST OBJECT
+----------------------------------------
+
+Asteroid: (2017 AV3)
+Velocity: 89,665.90 km/h
+
+----------------------------------------
+LARGEST OBJECT
+----------------------------------------
+
+Asteroid: (2017 AV3)
+Estimated diameter: 498.36 m
+
+----------------------------------------
+TODAY'S OBJECTS
+----------------------------------------
+
+(2008 JM20)
+Diameter: 271.36 m
+Velocity: 87,892.07 km/h
+Miss distance: 64,469,063.04 km
+Status: SAFE
+
+
+(2015 NJ24)
+Diameter: 226.75 m
+Velocity: 28,380.22 km/h
+Miss distance: 55,487,031.43 km
+Status: SAFE
+
+
+(2017 AV3)
+Diameter: 498.36 m
+Velocity: 89,665.90 km/h
+Miss distance: 42,346,249.57 km
+Status: SAFE
+
