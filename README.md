@@ -2,6 +2,10 @@
 
 **Space Observation & Mission Intelligence System**
 
+### 🚀 Live Application
+
+[Launch ORBIT](https://orbit-neo.streamlit.app)
+
 ![ORBIT Dashboard](images/orbit-dashboard.png)
 
 ORBIT is a Python-based Near-Earth Object (NEO) monitoring and analytics application that retrieves asteroid data from NASA's API, processes and stores the information in a PostgreSQL database, and presents the results through an interactive Streamlit dashboard.
