@@ -4,3 +4,5 @@ __pycache__/
 *.pyc
 .DS_Store
 .streamlit/secrets.toml
+# Generated ORBIT reports
+reports/*.txt
