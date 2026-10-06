@@ -1,4 +1,4 @@
-from nasa import get_asteroid_data
+from nasa import get_asteroid_data, get_asteroid_data_range
 
 from asteroids import (
     get_asteroids,
@@ -45,8 +45,8 @@ def main():
 
     save_asteroids(processed_asteroids)
 
-    # UPCOMING 7-DAY DATA
-    upcoming_data = get_asteroid_data(7)
+    # UPCOMING 30-DAY DATA
+    upcoming_data = get_asteroid_data_range(30)
 
     upcoming_raw_asteroids = get_asteroids(upcoming_data)
 
